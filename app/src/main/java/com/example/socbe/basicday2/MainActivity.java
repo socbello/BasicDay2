@@ -44,7 +44,7 @@ public class MainActivity
                 intent = new Intent(MainActivity.this, FrameLayoutActivity.class);
                 break;
             case R.id.ListLayout:
-                intent = new Intent(MainActivity.this, ListViewActivity2.class);
+                intent = new Intent(MainActivity.this, ListViewActivity.class);
                 break;
             case R.id.GridView:
                 intent = new Intent(MainActivity.this, GridViewActivity.class);
